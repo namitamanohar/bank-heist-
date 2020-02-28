@@ -1,0 +1,11 @@
+C:\Users\manoh\workspace\csharp\exercises\bankHeist\bin\Debug\netcoreapp3.1\bankHeist.exe
+C:\Users\manoh\workspace\csharp\exercises\bankHeist\bin\Debug\netcoreapp3.1\bankHeist.deps.json
+C:\Users\manoh\workspace\csharp\exercises\bankHeist\bin\Debug\netcoreapp3.1\bankHeist.runtimeconfig.json
+C:\Users\manoh\workspace\csharp\exercises\bankHeist\bin\Debug\netcoreapp3.1\bankHeist.runtimeconfig.dev.json
+C:\Users\manoh\workspace\csharp\exercises\bankHeist\bin\Debug\netcoreapp3.1\bankHeist.dll
+C:\Users\manoh\workspace\csharp\exercises\bankHeist\bin\Debug\netcoreapp3.1\bankHeist.pdb
+C:\Users\manoh\workspace\csharp\exercises\bankHeist\obj\Debug\netcoreapp3.1\bankHeist.csprojAssemblyReference.cache
+C:\Users\manoh\workspace\csharp\exercises\bankHeist\obj\Debug\netcoreapp3.1\bankHeist.AssemblyInfoInputs.cache
+C:\Users\manoh\workspace\csharp\exercises\bankHeist\obj\Debug\netcoreapp3.1\bankHeist.AssemblyInfo.cs
+C:\Users\manoh\workspace\csharp\exercises\bankHeist\obj\Debug\netcoreapp3.1\bankHeist.dll
+C:\Users\manoh\workspace\csharp\exercises\bankHeist\obj\Debug\netcoreapp3.1\bankHeist.pdb
